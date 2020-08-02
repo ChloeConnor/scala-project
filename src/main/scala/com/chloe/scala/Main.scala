@@ -1,5 +1,3 @@
 package com.chloe.scala
 
-object Main {
-
-}
+object Main {}
